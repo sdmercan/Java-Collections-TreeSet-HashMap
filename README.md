@@ -1,2 +1,2 @@
-# Java-Colections-TreeSet-HashMap
+# Java-Collections-TreeSet-HashMap
 Buffer Yönetimi
