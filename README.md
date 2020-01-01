@@ -9,5 +9,8 @@ LRU (Least Recently Used) algoritması, bir sayfa ihlali (page fault) olduğunda
 Komut satırından en az 10 kelimelik input alınacak.
 Yeni kelime okununca eğer bufferda yoksa en eski string bufferdan atılarak onun yerine en yeni string olarak alınacak.Bufferda varsa bu string en yeni olarak işaretlenecek.
 
+![Screenshot_1](https://user-images.githubusercontent.com/49806516/71642489-f7bc2d80-2cbc-11ea-9df8-74ae3bcd02b7.png)
+
+
 
 
